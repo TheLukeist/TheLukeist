@@ -9,10 +9,9 @@
 - :school: I'm currently 4rd year student at **University of the Andes**
 - :books: My major is **>Idk**
 - :earth_asia: I'm living now in **Stgo, Chile**
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
+- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development and CTF.
 - :monocle_face: I'm interested in coding, sleeping, listening music and watching football
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bootstrap,postgres,ruby,ubuntu,react,latex,git,github,azure,nodejs,figma,arduino&theme=dark)](https://skillicons.dev)
@@ -46,5 +45,5 @@
 
 ## 🐍 A Snake Eating my Contributions Graph	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/TheLukeist/TheLukeist/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
