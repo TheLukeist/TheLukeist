@@ -16,23 +16,20 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bootstrap,postgres,ruby,ubuntu,react,latex,git,github,azure,nodejs,figma,arduino&theme=dark)](https://skillicons.dev)
 <br>
-## <h3 align="auto">Connect with me:</h3>
+## <h3 align="auto" width="50px>Connect with me:</h3>
 <p align="left">
   <a href="TU_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>
   <a href="TU_INSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram"/></a>
   <a href="TU_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" title="Twitter"/></a>
 </p>
-<br>
-<br>
-## <h4>Statistical Data</h4>
-<p><img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="TheLukeist" 
-    bg_color=#808080/></p>
-<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="TheLukeist" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLukeist&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="TheLukeist" /></p>
-<br>
+## <h3 align="auto">Statistical Data:</h3>
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLukeist&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&theme=dark)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TheLukeist&theme=dark)
+</div>
 
 
 
