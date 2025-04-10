@@ -16,8 +16,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bootstrap,postgres,ruby,ubuntu,react,latex,git,github,azure,nodejs,figma,arduino&theme=dark)](https://skillicons.dev)
 <br>
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="auto">Connect with me:</h3>
+<p align="left">
   <a href="TU_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>
   <a href="TU_FACEBOOK" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" title="Facebook"/></a>
   <a href="TU_INSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram"/></a>
@@ -32,7 +32,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="TheLukeist" /></p>
 
 <br>
