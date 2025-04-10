@@ -24,7 +24,7 @@
 </p>
 <br>
 
-## <h4 align="auto" width="50px></h4> Statistical Data
+## <h4 align="auto", width="50px> Statistical Data</h4>
 <p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="TheLukeist" 
