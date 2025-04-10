@@ -23,7 +23,7 @@
 </p>
 <br>
 
-## <img src="https://i.gifer.com/5Mz4.gif" width="50px"></img> Statistical Data
+## <img src="https://i.gifer.com/y8.gif" width="50px"></img> Statistical Data
 <p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="TheLukeist" 
