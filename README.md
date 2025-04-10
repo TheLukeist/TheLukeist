@@ -19,7 +19,6 @@
 <h3 align="auto">Connect with me:</h3>
 <p align="left">
   <a href="TU_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>
-  <a href="TU_FACEBOOK" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" title="Facebook"/></a>
   <a href="TU_INSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram"/></a>
   <a href="TU_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" title="Twitter"/></a>
 </p>
@@ -29,15 +28,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="TheLukeist" 
     bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="TheLukeist" /></p>
-
-<br>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLukeist&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="TheLukeist" /></p>
+<br>
 
 ## 🐍 A Snake Eating my Contributions Graph	
 
