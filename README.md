@@ -23,7 +23,7 @@
   <a href="TU_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" title="Twitter"/></a>
 </p>
 <br>
-<h3>Statistical Data:</h3>
+## Statistical Data
 <p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="TheLukeist" 
