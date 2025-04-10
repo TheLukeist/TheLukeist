@@ -24,7 +24,7 @@
 </p>
 <br>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/fire.gif" width="50px"></img> Statistical Data
+## <img src="https://i.gifer.com/5Mz4.gif" width="50px"></img> Statistical Data
 <p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="TheLukeist" 
@@ -34,8 +34,3 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLukeist&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="TheLukeist" /></p>
 <br>
 
-
-## 🐍 A Snake Eating my Contributions Graph	
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheLukeist/TheLukeist/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
