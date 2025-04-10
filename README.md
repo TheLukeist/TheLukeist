@@ -12,7 +12,6 @@
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development and CTF.
 - :monocle_face: I'm interested in coding, sleeping, listening music and watching football
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bootstrap,postgres,ruby,ubuntu,react,latex,git,github,azure,nodejs,figma,arduino&theme=dark)](https://skillicons.dev)
 <br>
@@ -32,5 +31,4 @@
 <p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="TheLukeist" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLukeist&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="TheLukeist" /></p>
-<br>
 
