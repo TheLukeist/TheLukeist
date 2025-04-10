@@ -33,17 +33,17 @@
 </p>
 <br>
 <h3>Statistical Data:</h3>
-<p><img align="center"
+<p><img align="auto"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="TheLukeist" 
     bg_color=#808080/></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="TheLukeist" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLukeist&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="TheLukeist" /></p>
+<p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLukeist&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="TheLukeist" /></p>
 
 ## 🐍 A Snake Eating my Contributions Graph	
 <p align = "center">
-	<img src = "https://github.com/TheLukeist/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
