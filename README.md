@@ -15,7 +15,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bootstrap,postgres,ruby,ubuntu,react,latex,git,github,azure,nodejs,figma,arduino&theme=dark)](https://skillicons.dev)
 <br>
-## <h3 align="auto">Connect with me</h3>
+## <img src="https://i.gifer.com/Wc8C.gif" width="50px">Connect with me
 <p align="left">
   <a href="TU_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>
   <a href="TU_INSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram"/></a>
