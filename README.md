@@ -16,20 +16,12 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bootstrap,postgres,ruby,ubuntu,react,latex,git,github,azure,nodejs,figma,arduino&theme=dark)](https://skillicons.dev)
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+  <a href="TU_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>
+  <a href="TU_FACEBOOK" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" title="Facebook"/></a>
+  <a href="TU_INSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram"/></a>
+  <a href="TU_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" title="Twitter"/></a>
 </p>
 <br>
 <h3>Statistical Data:</h3>
@@ -37,13 +29,39 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="TheLukeist" 
     bg_color=#808080/></p>
+
 <br>
+
 <p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="TheLukeist" /></p>
+
 <br>
+
 <p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLukeist&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="TheLukeist" /></p>
 
 ## 🐍 A Snake Eating my Contributions Graph	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+# .github/workflows/snake.yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: TheLukeist
+          gif_out_path: ./assets/github-contribution-grid-snake.gif
+          svg_out_path: ./assets/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: ./assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
