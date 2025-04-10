@@ -24,7 +24,7 @@
 </p>
 <br>
 
-## <h4 align="auto">Statistical Data</h4>
+## <h4 align="auto" width="50px></h4> Statistical Data
 <p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLukeist&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="TheLukeist" 
@@ -36,4 +36,6 @@
 
 
 ## 🐍 A Snake Eating my Contributions Graph	
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheLukeist/TheLukeist/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
